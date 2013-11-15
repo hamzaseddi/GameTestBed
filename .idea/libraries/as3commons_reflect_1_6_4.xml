@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="as3commons-reflect-1.6.4" type="flex">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/as3commons-reflect-1.6.4.swc!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
