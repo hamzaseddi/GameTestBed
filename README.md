@@ -6,4 +6,6 @@ Hosted it on
 
 http://www.kongregate.com/games/zapper999/kongregate-api-test/
 
+http://www.newgrounds.com/portal/view/628601?updated=1
+
 Anthony
